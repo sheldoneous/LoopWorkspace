@@ -218,7 +218,7 @@ jobs:
           override_sens \
           profiles \
           basal_lock \
-          no_auth\
+          no_auth \
           remote_window
 
           # the final customization listed above CANNOT have a continuation character
